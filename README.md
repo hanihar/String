@@ -1,0 +1,2 @@
+# String
+From this week forward, your function initialization method will not be given. You should figure it out by yourself. Keep up the good work!  You only need solve 2 question!  Problem 1: Find the amount of substring.  Create a function whose name is substring_count that does the following:  Given a string and a substring. Count how many times the substring appears in the string. The first input is always the string (the longer one), and the second input is always the substring (the shorter one).
